@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Brisket",
-      "image": "assets/images/brisket.png",
+      "image": "/images/brisket.png",
       "category": "mains",
       "label": "Hot",
       "price": "15",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Baby Back Ribs",
-      "image": "assets/images/babyback.png",
+      "image": "/images/babyback.png",
       "category": "appetizer",
       "label": "",
       "price": "10",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Peanuts",
-      "image": "assets/images/peanuts.png",
+      "image": "/images/peanuts.png",
       "category": "appetizer",
       "label": "New",
       "price": "0.00",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Moscow Mules, Mai Tais, and Margaritas",
-      "image": "assets/images/margarita.png",
+      "image": "/images/margarita.png",
       "category": "dessert",
       "label": "",
       "price": "6",
@@ -243,7 +243,7 @@
     {
       "id": 0,
       "name": "Colin Sick",
-      "image": "/assets/images/people1.png",
+      "image": "/images/people1.png",
       "designation": "Bar Owner",
       "abbr": "CEO",
       "featured": true,
@@ -252,7 +252,7 @@
     {
       "id": 1,
       "name": "Chris P. Bacon",
-      "image": "/assets/images/people2.png",
+      "image": "/images/people2.png",
       "designation": "Bartender",
       "abbr": "CFO",
       "featured": false,
@@ -261,7 +261,7 @@
     {
       "id": 2,
       "name": "Lee Vatipp",
-      "image": "/assets/images/people3.png",
+      "image": "/images/people3.png",
       "designation": "Waiter Extraordinaire",
       "abbr": "CTO",
       "featured": false,
@@ -270,7 +270,7 @@
     {
       "id": 3,
       "name": "Casey Deeya",
-      "image": "/assets/images/people4.png",
+      "image": "/images/people4.png",
       "designation": "Band Leader",
       "abbr": "EC",
       "featured": false,
@@ -281,7 +281,7 @@
     {
       "id": 0,
       "name": "The Davanos Live!",
-      "image": "/assets/images/davanos.png",
+      "image": "/images/davanos.png",
       "label": "New",
       "price": "0.00",
       "featured": true,
